@@ -1,0 +1,15 @@
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\bin\Debug\net7.0\OOPHomeWork.exe
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\bin\Debug\net7.0\OOPHomeWork.deps.json
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\bin\Debug\net7.0\OOPHomeWork.runtimeconfig.json
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\bin\Debug\net7.0\OOPHomeWork.dll
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\bin\Debug\net7.0\OOPHomeWork.pdb
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.csproj.AssemblyReference.cache
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.AssemblyInfoInputs.cache
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.AssemblyInfo.cs
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.dll
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\refint\OOPHomeWork.dll
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.pdb
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\OOPHomeWork.genruntimeconfig.cache
+C:\Users\vadim\Documents\GitHub\OOPHomeWork\OOPHomeWork\obj\Debug\net7.0\ref\OOPHomeWork.dll

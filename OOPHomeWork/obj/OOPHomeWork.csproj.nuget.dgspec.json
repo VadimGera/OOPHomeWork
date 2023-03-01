@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vadim\\RiderProjects\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj": {}
+    "C:\\Users\\vadim\\Documents\\GitHub\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vadim\\RiderProjects\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj": {
+    "C:\\Users\\vadim\\Documents\\GitHub\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vadim\\RiderProjects\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\vadim\\Documents\\GitHub\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj",
         "projectName": "OOPHomeWork",
-        "projectPath": "C:\\Users\\vadim\\RiderProjects\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj",
+        "projectPath": "C:\\Users\\vadim\\Documents\\GitHub\\OOPHomeWork\\OOPHomeWork\\OOPHomeWork.csproj",
         "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vadim\\RiderProjects\\OOPHomeWork\\OOPHomeWork\\obj\\",
+        "outputPath": "C:\\Users\\vadim\\Documents\\GitHub\\OOPHomeWork\\OOPHomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
