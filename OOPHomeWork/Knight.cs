@@ -6,13 +6,18 @@ public class Knight : Unit
     public int HpCurrent { get; init; }
     public int Armor { get; init; }
 
+
     public override void Attack()
     {
         Console.WriteLine($"Knight attacks sword: {SwordDamage}, HP Knight: {HpCurrent}, Armor: {Armor}");
     }
 
+
+    public int UpArmor { get; init; }
+
     public override void Ability()
     {
-        throw new NotImplementedException();
+        Console.WriteLine($"Knight Ability : UP Armor {UpArmor}");
+        Console.WriteLine();
     }
 }
